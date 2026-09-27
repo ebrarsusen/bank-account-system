@@ -38,6 +38,9 @@
 *.exe
 *.out
 *.app
+main
+bank_log.txt
+password.h
 
 # Build directories
 build/
